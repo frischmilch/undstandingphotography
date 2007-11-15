@@ -1,0 +1,8 @@
+#labels roadmap,ideas,Featured,Phase-Design
+#roadmap of future versions of up
+
+= Details =
+
+Ideas coming up:
+  * adding a "automatic mode" for exposure/f-stop
+  * make a finer choose of focal lengths
