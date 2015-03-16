@@ -1,0 +1,1 @@
+There are many things you can set on your (digital) photo camera and this tool will show you which setting causes what effect.
